@@ -1,0 +1,35 @@
+body{
+    background-color: #000000;
+}
+h1{
+    color:#ffffff;
+    margin-left:720px;
+}
+h2{
+    color:#ffffff;
+    margin-left: 680px;
+}
+p{
+    color:#ffffff;
+}
+.big-image{
+    width: 1000px;
+    margin-left: 245px;
+}
+.small-image{
+    width: 800px;
+    margin-left: 330px;
+}
+.m-image{
+    width: 900px;
+    margin-left: 300px;
+}
+a{
+    color:gray;
+}
+b{
+    color:white;
+}
+ul{
+    color:white;
+}
